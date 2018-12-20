@@ -1,0 +1,33 @@
+<div class="col-md-4 offset-md-4">
+  <div class="container pt-5">
+    <div class="container pt-5">
+      <mat-card class="example-card">
+        <mat-card-header>
+          <div mat-card-avatar><mat-icon class="icon">face</mat-icon></div>
+          <mat-card-title>{{ order.orderType }}</mat-card-title>
+          <mat-card-subtitle
+            >Date: {{ order.movedDate | date }}</mat-card-subtitle
+          >
+        </mat-card-header>
+
+        <mat-card-content>
+          <address>Moving From: {{ order.movingFrom }}</address>
+          <address>Moving To: {{ order.movingTo }}</address>
+          <address>
+            Full Name: {{ order.customer.firstName }}
+            {{ order.customer.lastName }}
+          </address>
+          <address>Contact No.: {{ order.customer.phoneNumber }}</address>
+          <address>Email: {{ order.customer.email }}</address>
+          <p><strong>Note:</strong> {{ order.note }}</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-button [routerLink]="['/edit-order', order.orderId]">
+            EDIT
+          </button>
+          <button mat-button (click)="back()">BACK</button>
+        </mat-card-actions>
+      </mat-card>
+    </div>
+  </div>
+</div>

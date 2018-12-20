@@ -1,0 +1,126 @@
+<div class="container">
+  <form [formGroup]="orderForm" (ngSubmit)="onSubmit()">
+    <mat-card class="p-5 m-5">
+      <h1>Moving</h1>
+      <div
+        fxLayout="column"
+        fxLayoutAlign="space-between center"
+        fxLayoutGap="10px"
+      >
+        <mat-form-field class="example-form" fxLayoutGap="10px">
+          <mat-select formControlName="orderType" placeholder="Orders" required>
+            <mat-option>--</mat-option>
+            <mat-option *ngFor="let order of orders" [value]="order.name">
+              {{ order.name }}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <mat-form-field class="example-form" fxLayoutGap="10px">
+          <input
+            matInput
+            placeholder="Moving from?"
+            matTextareaAutosize
+            matAutosizeMinRows="2"
+            matAutosizeMaxRows="5"
+            formControlName="movingFrom"
+          />
+        </mat-form-field>
+        <mat-form-field class="example-form" fxLayoutGap="10px">
+          <input
+            matInput
+            placeholder="Moving to?"
+            matTextareaAutosize
+            matAutosizeMinRows="2"
+            matAutosizeMaxRows="5"
+            formControlName="movingTo"
+          />
+        </mat-form-field>
+        <mat-form-field class="example-form" fxLayoutGap="10px">
+          <input
+            (focus)="picker.open()"
+            #calendar
+            matInput
+            [matDatepicker]="picker"
+            placeholder="Move date"
+            formControlName="movedDate"
+          />
+          <mat-datepicker-toggle
+            matSuffix
+            [for]="picker"
+          ></mat-datepicker-toggle>
+          <mat-datepicker touchUi="true" #picker></mat-datepicker>
+        </mat-form-field>
+        <mat-form-field class="example-form" fxLayoutGap="10px">
+          <textarea
+            matInput
+            placeholder="Note"
+            formControlName="note"
+          ></textarea>
+        </mat-form-field>
+      </div>
+
+      <div
+        fxLayout="column"
+        fxLayoutAlign="space-between center"
+        fxLayoutGap="10px"
+        formGroupName="customer"
+      >
+        <mat-accordion>
+          <mat-expansion-panel>
+            <mat-expansion-panel-header>
+              <mat-panel-title> Customer </mat-panel-title>
+              <mat-panel-description> info </mat-panel-description>
+            </mat-expansion-panel-header>
+
+            <mat-form-field>
+              <input
+                matInput
+                placeholder="First name"
+                formControlName="firstName"
+              />
+            </mat-form-field>
+
+            <mat-form-field>
+              <input
+                matInput
+                placeholder="Last name"
+                formControlName="lastName"
+              />
+            </mat-form-field>
+            <mat-form-field>
+              <input
+                matInput
+                placeholder="phone number"
+                formControlName="phoneNumber"
+              />
+            </mat-form-field>
+
+            <mat-form-field>
+              <input matInput placeholder="email" formControlName="email" />
+            </mat-form-field>
+          </mat-expansion-panel>
+        </mat-accordion>
+      </div>
+
+      <div
+        class="pt-5"
+        fxLayout="row"
+        fxLayoutAlign="center"
+        fxLayoutGap="20px"
+      >
+        <button
+          type="submit"
+          mat-raised-button
+          color="primary"
+          [disabled]="isDisable"
+        >
+          <mat-icon class="icon">save</mat-icon> Create
+        </button>
+        <button type="button" mat-raised-button color="accent" (click)="back()">
+          <mat-icon class="icon">arrow_back_ios</mat-icon> Back
+        </button>
+      </div>
+    </mat-card>
+  </form>
+</div>

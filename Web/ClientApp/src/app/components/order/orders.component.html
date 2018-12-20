@@ -1,0 +1,50 @@
+<mat-card
+  *ngFor="let order of (loadOrdersResult$ | async)"
+  fxLayoutAlign="space-between center"
+  fxLayoutGap="20px"
+>
+  <span
+    class="toView"
+    [routerLink]="['/view-order', order.orderId]"
+    flexLayout="row"
+    fxLayoutAlign="space-between"
+    ><span class="mr-2"> <mat-icon class="icon">local_shipping</mat-icon></span>
+    {{ order.orderType }}
+  </span>
+  <span
+    [routerLink]="['/view-order', order.orderId]"
+    class="mr-2 toView"
+    flexLayout="row"
+    fxLayoutAlign="space-between"
+  >
+    Moving From: {{ order.movingFrom }}
+  </span>
+  <span
+    [routerLink]="['/view-order', order.orderId]"
+    class="mr-2 toView"
+    flexLayout="row"
+    fxLayoutAlign="space-between"
+    >Moving To: {{ order.movingTo }}
+  </span>
+  <span
+    class="toView"
+    [routerLink]="['/view-order', order.orderId]"
+    flexLayout="row"
+    fxLayoutAlign="space-between"
+    ><span class="mr-2"> <mat-icon class="icon">today</mat-icon></span>
+    {{ order.movedDate | date }}
+  </span>
+
+  <div fxLayoutGap="10px" fxLayout="column">
+    <button
+      [routerLink]="['/edit-order', order.orderId]"
+      mat-raised-button
+      color="primary"
+    >
+      <mat-icon class="icon">edit</mat-icon> Edit
+    </button>
+    <button mat-raised-button color="warn" (click)="done(order)">
+      <mat-icon class="icon">delete</mat-icon>Delete
+    </button>
+  </div>
+</mat-card>

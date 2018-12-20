@@ -1,0 +1,29 @@
+<!--<mat-toolbar color="primary" fxLayoutAlign="space-between center">-->
+<!--<div class="pointer" routerLink="/orders">-->
+<!--<mat-icon class="icon">home</mat-icon>Oslo Movers-->
+<!--</div>-->
+<!--<div class="nav-buttons">-->
+<!--</div>-->
+<!--</mat-toolbar>-->
+
+<mat-toolbar color="primary">
+  <div>
+    <mat-icon class="icon">weekend</mat-icon><a routerLink="/"> Oslo Movers </a>
+  </div>
+  <div fxFlex fxLayout fxLayoutAlign="flex-end" fxHide.xs>
+    <ul fxLayout fxLayoutGap="20px" class="navigation-items">
+      <li>
+        <a routerLink="/">
+          <mat-icon class="icon">library_books</mat-icon>
+          <span class="label">Orders</span>
+        </a>
+      </li>
+      <li>
+        <a routerLink="/customers">
+          <mat-icon class="icon">group</mat-icon>
+          <span class="label">Customers</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</mat-toolbar>

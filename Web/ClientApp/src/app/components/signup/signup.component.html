@@ -1,0 +1,78 @@
+<div class="signup-bg">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="row">
+          <div class="col-md-6 mx-auto">
+            <div class="card border-secondary opaq">
+              <div class="card-header">
+                <h3 class="mb-0 my-2">Sign up Page</h3>
+              </div>
+              <form class="card-body form-group" [formGroup]="signupForm">
+                <div class="form-group">
+                  <label for="inputUsername">Username</label>
+                  <input
+                    id="inputUsername"
+                    formControlName="username"
+                    type="text"
+                    class="form-control"
+                    placeholder="username"
+                    autocomplete="false"
+                  />
+                </div>
+                <div class="form-group">
+                  <label for="inputEmail">Email</label>
+                  <input
+                    formControlName="email"
+                    type="email"
+                    class="form-control"
+                    id="inputEmail"
+                    placeholder="email@gmail.com"
+                    autocomplete="false"
+                  />
+                </div>
+                <div class="form-group">
+                  <label for="password">Password</label>
+                  <input
+                    id="password"
+                    formControlName="password"
+                    type="password"
+                    class="form-control"
+                    placeholder="password"
+                    title="At least 6 characters with letters and numbers"
+                    autocomplete="false"
+                  />
+                </div>
+                <div class="form-group">
+                  <label for="verifyPassword">Verify</label>
+                  <input
+                    id="verifyPassword"
+                    type="password"
+                    class="form-control"
+                    placeholder="password (again)"
+                    autocomplete="false"
+                  />
+                </div>
+                <div class="form-group">
+                  <button
+                    type="submit"
+                    class="mr-1 btn btn-success btn-lg float-right"
+                  >
+                    Register
+                  </button>
+                  <button
+                    type="button"
+                    (click)="back()"
+                    class="mr-1 btn btn-default btn-lg float-right"
+                  >
+                    Cancel
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
