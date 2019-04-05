@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/devlinduldulao/Downloads/OsloMovers/IntegrationTests/IntegrationTests.csproj",
+    "projectUniqueName": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/IntegrationTests.csproj",
     "projectName": "IntegrationTests",
-    "projectPath": "/Users/devlinduldulao/Downloads/OsloMovers/IntegrationTests/IntegrationTests.csproj",
-    "outputPath": "/Users/devlinduldulao/Downloads/OsloMovers/IntegrationTests/obj/",
+    "projectPath": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/IntegrationTests.csproj",
+    "outputPath": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -15,11 +15,11 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "/Users/devlinduldulao/Downloads/OsloMovers/UnitTests/UnitTests.csproj": {
-            "projectPath": "/Users/devlinduldulao/Downloads/OsloMovers/UnitTests/UnitTests.csproj"
+          "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/UnitTests/UnitTests.csproj": {
+            "projectPath": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/UnitTests/UnitTests.csproj"
           },
-          "/Users/devlinduldulao/Downloads/OsloMovers/Web/Web.csproj": {
-            "projectPath": "/Users/devlinduldulao/Downloads/OsloMovers/Web/Web.csproj"
+          "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/Web/Web.csproj": {
+            "projectPath": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/Web/Web.csproj"
           }
         }
       }

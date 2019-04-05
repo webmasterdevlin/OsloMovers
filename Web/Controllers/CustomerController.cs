@@ -7,9 +7,10 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices.WindowsRuntime;
 using System.Threading.Tasks;
-using ApplicationCore.Dtos;
+
 using AutoMapper;
 using Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http2.HPack;
+using Web.Dtos;
 using StatusCodes = Microsoft.AspNetCore.Http.StatusCodes;
 
 namespace Web.Controllers

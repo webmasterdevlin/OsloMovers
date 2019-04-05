@@ -1274,7 +1274,7 @@
   },
   "libraries": {
     "Microsoft.CSharp/4.5.0": {
-      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "sha512": "yWWeTbGCzBOlRPWDCIxiTZW1ecZiMbao0ZT97KKEWdBhrLvUqU8RdzkhzuCRQzvoxzxlR7vytO43OOgFdkxv6g==",
       "type": "package",
       "path": "microsoft.csharp/4.5.0",
       "files": [
@@ -2176,11 +2176,12 @@
       ]
     },
     "SQLitePCLRaw.bundle_green/1.1.11": {
-      "sha512": "Hqp8IF/RLjbypkLm+t+1RqAX8EKuWEkj7wkLXplfENQoPnE127cvTmaDvaQKtt7a5QsD/HNjFDr1z5f9q2wdPg==",
+      "sha512": "HOD1/Jg9VZtrOyPUCD9reQOXHq4r+fNe24qw5nghuiUcKch+9jePeRpt6MqGGUFhg2KW89KvE/RFlhpbfF8pKA==",
       "type": "package",
       "path": "sqlitepclraw.bundle_green/1.1.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "build/wp8/SQLitePCLRaw.bundle_green.targets",
         "build/wp80/arm/SQLitePCLRaw.batteries_green.dll",
         "build/wp80/arm/SQLitePCLRaw.batteries_v2.dll",
@@ -2222,11 +2223,12 @@
       ]
     },
     "SQLitePCLRaw.core/1.1.11": {
-      "sha512": "QT17CyQAQIbTCu6pW5+uVA8BXqRzquiDI1tr5Un6c1YZcQydPmGPuYYng9xMs2UHUDYHbTu+JDkp55WR+qo9bQ==",
+      "sha512": "bWiOso10I1vDuc5rbzT69LQT0+oXfYnoqx8vKJ8zim/CJ4ytSd20QNTE/FE0dvWEgXGnvDp7gGJFu6PeWnhx9g==",
       "type": "package",
       "path": "sqlitepclraw.core/1.1.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "lib/MonoAndroid/SQLitePCLRaw.core.dll",
         "lib/Xamarin.Mac20/SQLitePCLRaw.core.dll",
         "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll",
@@ -2438,7 +2440,7 @@
       ]
     },
     "System.Collections.Immutable/1.5.0": {
-      "sha512": "RGxi2aQoXgZ5ge0zxrKqI4PU9LrYYoLC+cnEnWXKsSduCOUhE1GEAAoTexUVT8RZOILQyy1B27HC8Xw/XLGzdQ==",
+      "sha512": "T5XGQlcHhEO75Qx38GGCUDPdk4n/7yrRmTgy4yczzJV8alPHaxPU55TBC2UFrkQ42bu34sZPfK0dU+nWZUOEJA==",
       "type": "package",
       "path": "system.collections.immutable/1.5.0",
       "files": [
@@ -3604,11 +3606,12 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.1.0": {
-      "sha512": "tsQ/ptQ3H5FYfON8lL4MxRk/8kFyE0A+tGPXmVP967cT/gzLHYxIejIYSxp4JmIeFHVP78g/F2FE1mUUTbDtrg==",
+      "sha512": "Wxh1rob3b2Awf74mHHRx6ZbU1OreDEeDyzWlqtf+xPAb4Byx8feK8i1IPszhIJb27UMdacSmbHvyNQCLysMMtw==",
       "type": "package",
       "path": "system.reflection.typeextensions/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4670,11 +4673,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/devlinduldulao/Downloads/OsloMovers/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/devlinduldulao/Downloads/OsloMovers/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/Users/devlinduldulao/.nuget/packages/",
-      "outputPath": "/Users/devlinduldulao/Downloads/OsloMovers/Infrastructure/obj/",
+      "outputPath": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -4691,8 +4694,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/devlinduldulao/Downloads/OsloMovers/ApplicationCore/ApplicationCore.csproj": {
-              "projectPath": "/Users/devlinduldulao/Downloads/OsloMovers/ApplicationCore/ApplicationCore.csproj"
+            "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/ApplicationCore.csproj": {
+              "projectPath": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/ApplicationCore.csproj"
             }
           }
         }

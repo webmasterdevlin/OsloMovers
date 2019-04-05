@@ -1,6 +1,6 @@
-using ApplicationCore.Dtos;
 using AutoMapper;
 using ApplicationCore.Entities;
+using Web.Dtos;
 
 namespace Web.Utils
 {

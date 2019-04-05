@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using ApplicationCore.Dtos;
+
 using ApplicationCore.Entities;
 using ApplicationCore.Interfaces;
 using AutoMapper;
@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
+using Web.Dtos;
 
 namespace Web.Controllers
 {

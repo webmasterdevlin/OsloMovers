@@ -67,3 +67,26 @@ C:/OsloMovers/IntegrationTests/obj/Debug/netcoreapp2.2/IntegrationTests.pdb
 /Users/devlinduldulao/Downloads/OsloMovers/IntegrationTests/obj/Debug/netcoreapp2.2/IntegrationTests.csproj.CopyComplete
 /Users/devlinduldulao/Downloads/OsloMovers/IntegrationTests/obj/Debug/netcoreapp2.2/IntegrationTests.dll
 /Users/devlinduldulao/Downloads/OsloMovers/IntegrationTests/obj/Debug/netcoreapp2.2/IntegrationTests.pdb
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/IntegrationTests.deps.json
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/IntegrationTests.runtimeconfig.json
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/IntegrationTests.runtimeconfig.dev.json
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/IntegrationTests.dll
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/IntegrationTests.pdb
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/ApplicationCore.dll
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/Infrastructure.dll
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/UnitTests.dll
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/Web.dll
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/UnitTests.pdb
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/Web.pdb
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/ApplicationCore.pdb
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/bin/Debug/netcoreapp2.2/Infrastructure.pdb
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/obj/Debug/netcoreapp2.2/IntegrationTests.csprojAssemblyReference.cache
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/obj/Debug/netcoreapp2.2/IntegrationTests.csproj.CoreCompileInputs.cache
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/obj/Debug/netcoreapp2.2/IntegrationTests.AssemblyInfoInputs.cache
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/obj/Debug/netcoreapp2.2/IntegrationTests.AssemblyInfo.cs
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/obj/Debug/netcoreapp2.2/IntegrationTests.csproj.CopyComplete
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/obj/Debug/netcoreapp2.2/IntegrationTests.dll
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/IntegrationTests/obj/Debug/netcoreapp2.2/IntegrationTests.pdb

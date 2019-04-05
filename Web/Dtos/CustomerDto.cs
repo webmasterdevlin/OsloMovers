@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using ApplicationCore.Entities;
 
-namespace ApplicationCore.Dtos
+namespace Web.Dtos
 {
     public class CustomerDto
     {

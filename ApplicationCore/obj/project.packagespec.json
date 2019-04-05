@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/devlinduldulao/Downloads/OsloMovers/ApplicationCore/ApplicationCore.csproj",
+    "projectUniqueName": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/ApplicationCore.csproj",
     "projectName": "ApplicationCore",
-    "projectPath": "/Users/devlinduldulao/Downloads/OsloMovers/ApplicationCore/ApplicationCore.csproj",
-    "outputPath": "/Users/devlinduldulao/Downloads/OsloMovers/ApplicationCore/obj/",
+    "projectPath": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/ApplicationCore.csproj",
+    "outputPath": "/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

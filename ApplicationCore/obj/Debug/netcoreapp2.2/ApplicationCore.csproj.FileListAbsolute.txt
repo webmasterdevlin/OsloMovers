@@ -25,12 +25,21 @@ C:/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.pdb
 /Users/devlinduldulao/Downloads/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.AssemblyInfo.cs
 /Users/devlinduldulao/Downloads/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.dll
 /Users/devlinduldulao/Downloads/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.pdb
-\\Mac\Home\Downloads\OsloMovers\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.deps.json
-\\Mac\Home\Downloads\OsloMovers\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.dll
-\\Mac\Home\Downloads\OsloMovers\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
-\\Mac\Home\Downloads\OsloMovers\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.csproj.CoreCompileInputs.cache
-\\Mac\Home\Downloads\OsloMovers\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.AssemblyInfoInputs.cache
-\\Mac\Home\Downloads\OsloMovers\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.AssemblyInfo.cs
-\\Mac\Home\Downloads\OsloMovers\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.dll
-\\Mac\Home\Downloads\OsloMovers\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.pdb
-\\Mac\Home\Downloads\OsloMovers\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.csprojAssemblyReference.cache
+//Mac/Home/Downloads/OsloMovers/ApplicationCore/bin/Debug/netcoreapp2.2/ApplicationCore.deps.json
+//Mac/Home/Downloads/OsloMovers/ApplicationCore/bin/Debug/netcoreapp2.2/ApplicationCore.dll
+//Mac/Home/Downloads/OsloMovers/ApplicationCore/bin/Debug/netcoreapp2.2/ApplicationCore.pdb
+//Mac/Home/Downloads/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.csproj.CoreCompileInputs.cache
+//Mac/Home/Downloads/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.AssemblyInfoInputs.cache
+//Mac/Home/Downloads/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.AssemblyInfo.cs
+//Mac/Home/Downloads/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.dll
+//Mac/Home/Downloads/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.pdb
+//Mac/Home/Downloads/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.csprojAssemblyReference.cache
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/bin/Debug/netcoreapp2.2/ApplicationCore.deps.json
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/bin/Debug/netcoreapp2.2/ApplicationCore.dll
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/bin/Debug/netcoreapp2.2/ApplicationCore.pdb
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.csprojAssemblyReference.cache
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.AssemblyInfoInputs.cache
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.AssemblyInfo.cs
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.dll
+/Users/devlinduldulao/Documents/Development/Github Repos/OsloMovers/ApplicationCore/obj/Debug/netcoreapp2.2/ApplicationCore.pdb

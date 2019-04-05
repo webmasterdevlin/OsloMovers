@@ -1,6 +1,18 @@
 ﻿<Properties StartupConfiguration="{3349691E-2D9C-4F5B-9F4B-F8CE9EF30640}|Default">
   <MonoDevelop.Ide.ItemProperties.Src.Web PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OsloMovers" expanded="True" selected="True">
+            <Node name="Src" expanded="True">
+              <Node name="Web" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
