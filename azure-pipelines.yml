@@ -8,8 +8,15 @@
 trigger:
 - master
 
-extends:
-  template: https://github.com/webmasterdevlin/OsloMovers/blob/master/azure-pipelines.yml
+steps:
+- bash: |
+   # Write your commands here
+   
+  echo "Yes!"
+   
+  displayName: 'Bash Script for Hello World'
+  enabled: false
+
 
 
 
